@@ -1,0 +1,7 @@
+setup.py
+pystock.egg-info/PKG-INFO
+pystock.egg-info/SOURCES.txt
+pystock.egg-info/dependency_links.txt
+pystock.egg-info/requires.txt
+pystock.egg-info/top_level.txt
+test/test.py
